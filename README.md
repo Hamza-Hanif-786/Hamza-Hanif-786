@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Architecture & Interior Design Web App<br>👨🏻‍🎓 I’m recently passout from Aptech Learning<br>💼 I have a 7 months experience in MERN Stack<br>💬 Ask me about React.js, Next.js, Mongodb, PostgreSql, Express.js, Node.js, Nest.js<br>
+🔭 I’m currently working on Architecture & Interior Design Web App<br>👨🏻‍🎓 I’m recently passout from Aptech Learning<br>💼 I have a 7 months experience in MERN Stack<br>💬 Ask me about React.js, Next.js, Mongodb, PostgreSql, Express.js, Node.js, Nest.js, Flutter, Laravel, Python<br>
 
 
 ## 🌐 Socials:
